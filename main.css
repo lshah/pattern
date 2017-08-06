@@ -1,0 +1,52 @@
+ 
+body {
+	background: black;
+}
+
+#container {
+	
+	margin-left: -90px;
+	
+}
+
+
+#square1, #square2, #square3, #square4, #square5, #square6, #square7, #square8, #square9 {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	transform: rotate(159deg) skewX(48deg) scaleX(1.5);
+	margin-left: 175px;
+	background: lightgray;
+}
+
+#row2 {
+	margin-left: 141px;
+	margin-top: -49px;
+}
+
+#row3 {
+	margin-left: 427.5px;
+	margin-top: 5px;
+}
+
+#row4 {
+	margin-left: 427.5px;
+	margin-top: 5px;
+}
+
+#row5 {
+	margin-left: 286px;
+	margin-top: -49px;
+}
+
+#row6 {
+	margin-left: 427.5px;
+	margin-top: -50px;
+}
+
+#row7 {
+	margin-left: 569px;
+	margin-top: -50px;
+}
+
+
