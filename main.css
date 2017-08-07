@@ -18,19 +18,20 @@ body {
 	background: lightgray;
 }
 
-#square1 {
-	background: #0d0a0f;
+
+#square2 {
+	background: #67527a;
 }
 
 #square4 {
 	background: #666666;
 }
 
-#square2, #square6, #square10 {
+#square6, #square10 {
 	background: #1a141f;
 }
 
-#square7, #square12 {
+#square1, #square3, #square7, #square12 {
 	background: #999999;
 }
 
@@ -38,7 +39,7 @@ body {
 	background: #33293d
 }
 
-#square3, #square5, #square9 {
+#square5, #square9 {
 	background: #271f2e;
 }
 
