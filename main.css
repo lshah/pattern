@@ -9,14 +9,36 @@ body {
 	
 }
 
-
-#square1, #square2, #square3, #square4, #square5, #square6, #square7, #square8, #square9 {
+#square1, #square2, #square3, #square4, #square5, #square6, #square7, #square8, #square9, #square10, #square11, #square12 {
 	width: 100px;
 	height: 100px;
 	display: inline-block;
 	transform: rotate(159deg) skewX(48deg) scaleX(1.5);
 	margin-left: 175px;
 	background: lightgray;
+}
+
+
+#square2 {
+	background: #808080;
+}
+
+#square6, #square10 {
+	background: #1a1a1a;
+}
+
+#square8, #square5 {
+	background: #4d4d4d;
+}
+
+#square9 {
+	background: #333333;
+}
+
+
+
+#square11 {
+	background: #0d0d0d;
 }
 
 #row2 {
@@ -35,7 +57,7 @@ body {
 }
 
 #row5 {
-	margin-left: 279px;
+	margin-left: -2px;
 	margin-top: -49px;
 }
 
@@ -45,8 +67,8 @@ body {
 }
 
 #row7 {
-	margin-left: 561.5px;
-	margin-top: -50px;
+	margin-left: 699px;
+	margin-top: 5px;
 }
 
 
