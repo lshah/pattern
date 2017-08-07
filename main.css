@@ -18,28 +18,34 @@ body {
 	background: lightgray;
 }
 
-
-#square2 {
-	background: #808080;
+#square1 {
+	background: #0d0a0f;
 }
 
-#square6, #square10 {
-	background: #1a1a1a;
+#square4 {
+	background: #666666;
 }
 
-#square8, #square5 {
-	background: #4d4d4d;
+#square2, #square6, #square10 {
+	background: #1a141f;
 }
 
-#square9 {
-	background: #333333;
+#square7, #square12 {
+	background: #999999;
 }
 
+#square8 {
+	background: #33293d
+}
 
+#square3, #square5, #square9 {
+	background: #271f2e;
+}
 
 #square11 {
-	background: #0d0d0d;
+	background: #0d0a0f	;
 }
+
 
 #row2 {
 	margin-left: 141px;
